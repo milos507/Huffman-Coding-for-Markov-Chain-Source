@@ -43,4 +43,4 @@ As a control case, when `P(0|0) = P(1|1) = 0.5` the source becomes memoryless (i
 
 ## Report
 
-Full derivation of the entropy formulas and theoretical background: [`report/OTR_domaci.pdf`](report/OTR_domaci.pdf) (in Serbian).
+Full derivation of the entropy formulas and theoretical background: [`OTR_domaci.pdf`](OTR_domaci.pdf) (in Serbian).
